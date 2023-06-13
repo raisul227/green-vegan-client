@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Quinoa Salad",
+        "description": "A refreshing salad with quinoa, mixed greens, cherry tomatoes, cucumber, and lemon vinaigrette.",
+        "price": 9.99,
+        "image": "https://i.ibb.co/RH7qjXL/Quinoa-Salad.jpg"
+    },
+    {
+        "name": "Grilled Salmon",
+        "description": "Grilled salmon fillet served with roasted vegetables and a side of steamed quinoa.",
+        "price": 14.99,
+        "image": "https://i.ibb.co/tQRY97m/grilled-salmon.jpg"
+    },
+    {
+        "name": "Mixed Berry Smoothie Bowl",
+        "description": "A nutritious bowl packed with a blend of mixed berries, banana, spinach, and topped with granola and coconut flakes.",
+        "price": 7.99,
+        "image": "https://i.ibb.co/DCp3hRN/Berry-Smoothie.jpg"
+    },
+    {
+        "name": "Roasted Vegetable Wrap",
+        "description": "A wholesome wrap filled with roasted vegetables, hummus, and greens, wrapped in a whole wheat tortilla.",
+        "price": 8.99,
+        "image": "https://i.ibb.co/b3XwjY3/Roasted-Vegetable.jpg"
+    },
+    {
+        "name": "Greek Yogurt Parfait",
+        "description": "Layers of creamy Greek yogurt, fresh berries, and granola, drizzled with honey for a touch of sweetness.",
+        "price": 6.99,
+        "image": "https://i.ibb.co/px7fs71/Greek-Yogurt.jpg"
+    },
+    {
+        "name": "Veggie Stir-Fry",
+        "description": "A colorful stir-fry packed with a variety of crisp vegetables, tofu, and served over brown rice.",
+        "price": 10.99,
+        "image": "https://i.ibb.co/9b29c9W/Veggie-Stir-Fry.jpg"
+    },
+    {
+        "name": "Avocado Toast",
+        "description": "Freshly toasted whole grain bread topped with ripe avocado slices, cherry tomatoes, and a sprinkle of sea salt.",
+        "price": 8.99,
+        "image": "https://i.ibb.co/8MMZZ11/Avocado-Toast.jpg"
+    },
+    {
+        "name": "Quinoa Stuffed Bell Peppers",
+        "description": "Colorful bell peppers filled with a savory mixture of quinoa, black beans, corn, and spices.",
+        "price": 10.99,
+        "image": "https://i.ibb.co/8KrmwRd/Quinoa-Stuffed.jpg"
+    },
+    {
+        "name": "Mixed Berry Salad",
+        "description": "A refreshing salad combining a variety of fresh berries, spinach, feta cheese, and a tangy balsamic vinaigrette.",
+        "price": 7.99,
+        "image": "https://i.ibb.co/w7j2RXD/Mixed-Berry-Salad.jpg"
+    },
+    {
+        "name": "Vegetable Stir-Fry",
+        "description": "A colorful stir-fry featuring an assortment of crunchy vegetables cooked in a light soy-based sauce.",
+        "price": 9.99,
+        "image": "https://i.ibb.co/dDV0wKy/Vegetable-Stir-Fry.jpg"
+    },
+    {
+        "name": "Quinoa and Chickpea Bowl",
+        "description": "A nourishing bowl filled with quinoa, roasted chickpeas, roasted vegetables, and a zesty tahini dressing.",
+        "price": 13.99,
+        "image": "https://i.ibb.co/98TkKZG/Quinoa-and-Chickpea-Bowl.jpg"
+    },
+    {
+        "name": "Spinach and Feta Stuffed Chicken Breast",
+        "description": "Tender chicken breast stuffed with a flavorful combination of sautéed spinach and crumbled feta cheese.",
+        "price": 13.99,
+        "image": "https://i.ibb.co/8NMq1qn/Spinach-and-Feta-Stuffed-Chicken.jpg"
+    }
+]
