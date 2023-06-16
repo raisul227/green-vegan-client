@@ -5,7 +5,7 @@ import { AuthContext } from '../../contexts/AuthProvider/AuthProvider';
 
 const Login = () => {
     const [error, setError] = useState('');
-    const { loginUser } = useContext(AuthContext);
+    const { loginUser, setLoading } = useContext(AuthContext);
     const location = useLocation();
     const from = location.state?.from?.pathname || '/';
     const navigate = useNavigate();
@@ -16,11 +16,15 @@ const Login = () => {
         const password = form.password.value;
         loginUser(email, password)
             .then(result => {
-                const user = result.user;
+                setError('');
                 form.reset();
+                console.log(result.user)
                 navigate(from, { replace: true })
             })
             .catch(err => setError(err.message))
+            .finally(() => {
+                setLoading(false)
+            })
     }
     return (
         <div className="hero my-20">
